@@ -37,7 +37,7 @@ This Power BI dashboard provides a comprehensive view of the Global Superstore s
 ## 📂 File Details
 - `PowerBI_GlobalSuperstoreDashboard.pbix`: The main Power BI report file (not included in repo preview)  
 - `README.md`: Project documentation  
-- `Screenshots/`: Folder containing dashboard snapshots  
+- `PPT': Summary  
 
 ## 📝 Author
 **David Jose**  
